@@ -11,6 +11,7 @@
     "jsx": "react-jsx", // Use "react-jsx" or "react-jsxdev" for TSX files
     "forceConsistentCasingInFileNames": true,
     "emitDeclarationOnly": false,
+    "noEmit": true // or "emitDeclarationOnly": true
     // "composite": true,
   },
   "include": [
